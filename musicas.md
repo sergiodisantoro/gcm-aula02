@@ -1,3 +1,3 @@
 # Travessia
-New York, New York
-Emoçôes
+# New York, New York
+# Emoçôes
