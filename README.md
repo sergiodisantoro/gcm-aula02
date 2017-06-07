@@ -1,4 +1,5 @@
 # gcm-aula02
 # Pierce Brosnan
-# Sean Connery
+# Angelina Jolie
 # Roger Moore
+# Sean Connery
