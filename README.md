@@ -1,5 +1,11 @@
-# gcm-aula02
+# Atores preferidos
+
 # Pierce Brosnan
+
 # Angelina Jolie
+
+# Lian Nelson
+
 # Roger Moore
+
 # Sean Connery
