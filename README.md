@@ -1,4 +1,4 @@
-# gcm-aula02
+# Atores preferidos
 # Pierce Brosnan
-# Sean Connery
+# Lian Nelson
 # Roger Moore
